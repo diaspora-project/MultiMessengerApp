@@ -1,0 +1,9 @@
+[submodule "MMA_GravitationalWave"]
+	path = MMA_GravitationalWave
+	url = git@github.com:parth7stark/MMA_GravitationalWave.git
+[submodule "MMA_RadioWave"]
+	path = MMA_RadioWave
+	url = git@github.com:parth7stark/MMA_RadioWave.git
+[submodule "MMA_MultimessengerAnalysis"]
+	path = MMA_MultimessengerAnalysis
+	url = git@github.com:parth7stark/MMA_MultimessengerAnalysis.git
